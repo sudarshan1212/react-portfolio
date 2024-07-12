@@ -5,6 +5,7 @@ import Technologiex from "./components/Technologiex";
 import Project from "./components/Project";
 import Footer from "./components/Footer";
 
+
 function App() {
   return (
     <div className="overflow-x-hidden text-neutral-300 antialiased selection:bg-cyan-300 selection:text-cyan-900">
