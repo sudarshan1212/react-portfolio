@@ -1,4 +1,3 @@
-
 import { motion } from "framer-motion";
 import { HERO_CONTENT } from "./../constants/index";
 import profilePic from "../assets/Designer.jpeg";
@@ -23,7 +22,7 @@ const Hero = () => {
               animate="visible"
               className="pb-12 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl "
             >
-              Sudarshan
+              Gautham
             </motion.h1>
             <motion.span
               variants={container(0.5)}

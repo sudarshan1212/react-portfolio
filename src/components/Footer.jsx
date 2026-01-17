@@ -1,4 +1,3 @@
-
 import { CONTACT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -25,7 +24,7 @@ const Footer = () => {
       >
         <p className="my-4">{CONTACT.address}</p>
         <p className="my-4">{CONTACT.phoneNo}</p>
-        <a href="mailto:sudarshansam12@gmail.com" className="border-b ">
+        <a href="mailto:aakashsugadev2403@gmail.com" className="border-b ">
           {CONTACT.email}
         </a>
       </motion.div>

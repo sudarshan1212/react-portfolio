@@ -60,10 +60,10 @@ const Navbar = () => {
         </motion.h3>
       </div>
       <div className="m-8 flex items-center gap-4 text-2xl">
-        <Link to="https://github.com/sudarshan1212">
+        <Link to="https://github.com/Aakashsugadev">
           <FaGithub />
         </Link>
-        <Link to="https://linkedin.com/in/sudarshansam12">
+        <Link to="https://www.linkedin.com/in/aakash-sugadev-87a397372/">
           <FaLinkedin />
         </Link>
         <FaInstagram />
