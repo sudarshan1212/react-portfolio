@@ -24,7 +24,7 @@ const Footer = () => {
       >
         <p className="my-4">{CONTACT.address}</p>
         <p className="my-4">{CONTACT.phoneNo}</p>
-        <a href="mailto:aakashsugadev2403@gmail.com" className="border-b ">
+        <a href="mailto:gautham1806@gmail.com" className="border-b ">
           {CONTACT.email}
         </a>
       </motion.div>
